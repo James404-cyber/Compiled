@@ -25,7 +25,7 @@ def banner():
 banner()
 
 # Enter Your File ,which one want to Compiled(Example file.py
-print('You Are Compiled With C langauge  pyc Byte Compiled 100%......')
+print('You Can Compiled With C langauge  pyc Byte Compiled 100%......')
 print('This Basically At the Time Safe Code ,You can Use This for your Script \n')
 input_file = input("Enter the input file name: ")
 
